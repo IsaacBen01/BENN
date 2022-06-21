@@ -1,0 +1,1 @@
+console.log ('Isaac', '6.2ft', 'Nigeria')
